@@ -5,6 +5,10 @@
 <title>Document</title>
 </HEAD>
 <BODY>
+<<<<<<< HEAD
 	<h1>GIT lesson2???</h1>
+=======
+	<h1>GIT lesson2!!!</h1>
+>>>>>>> new_site
 </BODY>
 </html>
